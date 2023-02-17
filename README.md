@@ -1,17 +1,26 @@
 # Stepper-Motor-CIKU
-###This is sample code of Stepper Motor CIKU<br/><br/>###
+This is sample code of Stepper Motor CIKU
 
-##HARDWARE REQUIRED:##
+## Requirements  
+**Hardware:**  
+[CIKU](https://cytron.io/p-pic-based-arduino-form-factor-kit)  
+[USB Mini Cable (2.0)](https://cytron.io/p-usb-minib-cable-2.0)  
+[Adapter 12V 2A](https://cytron.io/p-adapter-12v-2a-uk-plug)  
+[2 Amp Motor Driver Shield](https://cytron.io/p-0.8amp-5v-26v-dc-motor-driver-shield-for-arduino-2-channels)  
+[Bipolar Stepper Motor or Unipolar Stepper Motor](https://cytron.io/p-stepper-motor)  
 
--<a href="http://www.cytron.com.my/p-ciku?search=ciku&sort=relevance&order=DESC" target="_blank"> CIKU </a><br/><br/> 
--<a href="http://www.cytron.com.my/p-wr-usb-m?search=usb%20mini%20cable&sort=relevance&order=DESC" target="_blank"> USB Mini Cable (2.0) </a><br/><br/>
--<a href="http://www.cytron.com.my/p-ad-12-2?search=Adapter%2012V%202A&sort=relevance&order=DESC" target="_blank"> Adapter 12V 2A </a><br/><br/>
--<a href="http://www.cytron.com.my/p-shield-2amotor?search=2%20Amp%20Motor%20Driver%20Shield&sort=relevance&order=DESC" target="_blank"> 2 Amp Motor Driver Shield </a><br/><br/> 
--<a href="http://www.cytron.com.my/p-mo-step-35by48l?search=stepper%20motor&sort=relevance&order=DESC" target="_blank">  Bipolar Stepper Motor or Unipolar Stepper Motor </a><br/><br/>
+**Software:**  
+For software setup you can refer to [Getting Started with CIKU](https://cytron.io/tutorial/getting-started-ciku)  
 
-##SOFTWARE REQUIRED:##
--<a href="http://tutorial.cytron.com.my/2014/08/07/getting-started-with-ciku/" target="_blank"> Please refer to “Getting Started with CIKU” tutorial. </a><br/><br/> 
+## Related Tutorials  
+[Introducing CIKU!](https://www.cytron.io/tutorial/introduced-ciku)  
+[CIKU + LCD Keypad Shield](https://www.cytron.io/tutorial/ciku-lcd-keypad-shield)  
+[CIKU + 2AMP Motor Driver Shield](https://www.cytron.io/tutorial/ciku-2amp-motor-driver-shield)  
+[CIKU - Create New Project From Scratch](https://www.cytron.io/tutorial/ciku-create-new-project-scratch)  
+[CT-UNO and CIKU have Legs](https://www.cytron.io/tutorial/ct-uno-ciku-legs)  
 
-##SUGGESTED READING:##
--<a href="http://tutorial.cytron.com.my/2012/03/10/how-does-stepper-motor-works-part-1/" target="_blank"> How Does Stepper Motor Works – Part 1 </a><br/><br/> 
--<a href="http://tutorial.cytron.com.my/2012/05/13/how-does-stepper-motor-works-part-2/" target="_blank"> How Does Stepper Motor Works – Part 2 </a><br/><br/> 
+## Documentation  
+The documentation for this product can be found here:  
+[CIKU's schematic](https://drive.google.com/file/d/0B0sQdyZXER9QeDJQbFVXMHkzNGc/edit?usp=sharing)  
+[CIKU User's Manual](https://docs.google.com/document/d/1UWd7smdl1F88E64wKwe0slEGsP5yZ8egk8G2iEgmYbY/edit?usp=sharing)  
+[CIKU Cheatsheet](https://docs.google.com/drawings/d/1b2zgKKCuUfe87RrWiLcHl0IZhnkl-EawMHdE7rkeKSA/edit?usp=sharing)  
